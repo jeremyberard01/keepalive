@@ -2,7 +2,7 @@ name: Keep Alive Bot
 
 on:
   schedule:
-    - cron: '0 45 * * 6'  # samedi 10h00 AM Montréal
+    - cron: '35 17 * * 6'
   workflow_dispatch:
 
 jobs:
